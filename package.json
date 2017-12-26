@@ -1,0 +1,22 @@
+{
+  "name": "template-node-typescript",
+  "version": "0.0.1",
+  "description": "template-node-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamuca/template-node-typescript.git"
+  },
+  "keywords": [
+    "template-node-typescript"
+  ],
+  "author": "Samuel Fonseca Verneck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osamuca/template-node-typescript/issues"
+  },
+  "homepage": "https://github.com/osamuca/template-node-typescript#readme"
+}
